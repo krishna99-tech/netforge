@@ -1,6 +1,6 @@
 BINARY_NAME=netforge
 BUILD_DIR=bin
-VERSION=1.0.0
+VERSION=1.0.1
 
 .PHONY: all build windows linux darwin clean version
 
